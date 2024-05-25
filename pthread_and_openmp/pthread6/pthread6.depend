@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1716175364 source:d:\学习\大二下\并行\pthread6\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<malloc.h>
+	<iostream>
+	<bitset>
+	<nmmintrin.h>
+	<chrono>
+	<pthread.h>
+	<mutex>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1716381599 source:d:\学习\大二下\并行\openmp2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<malloc.h>
+	<iostream>
+	<bitset>
+	<nmmintrin.h>
+	<chrono>
+	<omp.h>
+	<pthread.h>
+

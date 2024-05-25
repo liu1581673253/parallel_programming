@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1715655387 source:d:\学习\大二下\并行\pthread3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<malloc.h>
+	<iostream>
+	<bitset>
+	<nmmintrin.h>
+	<chrono>
+	<pthread.h>
+
